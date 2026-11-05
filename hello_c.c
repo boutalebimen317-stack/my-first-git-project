@@ -6,5 +6,6 @@ int main() {
     printf("I am experimenting with Git branches!\n");
     printf("This is my second project update!\n");
 
+    printf("My GitHub feature branch is working!\n");
     return 0;
 }
