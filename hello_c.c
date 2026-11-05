@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main() {
-   printf("Hello, Git! This is my second version.");
+    printf("Hello, Git!\n");
+    printf("I am learning Git and GitHub.\n");
+    printf("This is my second project update!\n");
+
     return 0;
 }
